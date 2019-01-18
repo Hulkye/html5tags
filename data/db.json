@@ -1,0 +1,16 @@
+[
+  {
+    "tagCategory": "root",
+    "CategoryName": "根元素",
+    "item":[
+      {
+        "tagName": "html",
+        "infoTitle": "&lt;html&gt;",
+        "infoContent": "Document root element.<br>文档根元素",
+        "linkMozilla": "https://developer.mozilla.org/en/HTML/Element/html",
+        "linkW3C": "http://www.w3.org/TR/html5/semantics.html#the-html-element-0"
+      }
+    ]
+
+  }
+]
